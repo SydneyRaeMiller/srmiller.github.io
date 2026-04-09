@@ -26,8 +26,9 @@ author:
   avatar           : "newsquareprofilepic.png"
   name             : "Sydney Rae Miller"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  employer         : "University of Illinois Urbana-Chapaign"
+  #bio              : "Short biography for the left-hand sidebar"
+  employer         : "University of Illinois 
+                      Urbana-Chapaign"
   uri              : # URL
   email            : "srm16@illinois.edu" 
 
