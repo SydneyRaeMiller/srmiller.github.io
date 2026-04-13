@@ -7,17 +7,23 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<iframe src="/files/cv.pdf" width="100%" height="800px">
+    This browser does not support PDFs. Please download the PDF to view it:
+    <a href="/files/cv.pdf">Download CV</a>
+</iframe>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
+#{% include base_path %}
+
+#Education
+#======
+#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+#* M.S. in Jekyll, GitHub University, 2014
+#* B.S. in GitHub, GitHub University, 2012
+
+#Work experience
+#======
+#* Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
