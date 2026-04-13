@@ -13,11 +13,6 @@ My research focuses on the role of generative AI in college-level writing instru
 
 Before coming to UIUC, I earned my MA in Literary and Cultural Studies from [Carnegie Mellon University](https://www.cmu.edu/). 
 
-News
-======
-April, 2026- Successfully passed PhD field exam!
-
-March, 2026- Presented research on writing instructors’ decisions about generative AI at [Conference on College Composition and Communication (CCCC)](https://cccc.ncte.org/).
 
 <h2>News</h2>
 <div style="font-size: 0.9em;">
