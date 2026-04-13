@@ -27,7 +27,7 @@ author:
   name             : "Sydney Rae Miller"
   pronouns         : "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
-  #employer         : # "University of Illinois 
+  employer         : "University of Illinois 
                       Urbana-Chapaign"
   uri              : # URL
   email            : "srm16@illinois.edu" 
@@ -218,23 +218,23 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
+# 4/13/26, changed these to false
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
-
+#4/13/26, changed some to false
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
@@ -261,7 +261,7 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _publications
@@ -270,7 +270,7 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _portfolio
@@ -279,7 +279,7 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comment: true
   # _talks
@@ -288,7 +288,7 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
+      author_profile: false
       share: true
 
 
