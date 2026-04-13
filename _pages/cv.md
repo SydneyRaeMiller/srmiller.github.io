@@ -6,5 +6,5 @@ author_profile: true
 
 <iframe src="/files/cv.pdf" width="100%" height="1000px" style="border: none;">
   This browser does not support PDFs.
-  <a href="cv.pdf">Download the CV</a>.
+  <a href="files/CV.pdf">Download the CV</a>.
 </iframe>
