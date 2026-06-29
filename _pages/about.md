@@ -16,6 +16,8 @@ Before coming to UIUC, I earned my MA in Literary and Cultural Studies from [Car
 
 <h2>News</h2>
 <div style="font-size: 0.9em;">
+  <p><strong>July 2026</strong> — Presented two short papers at AIED 2026</p>
+  <p><strong>June 2026</strong> — Shared a poster at ISLS 2026</p>
   <p><strong>April 2026</strong> — Presented a short paper at LAK 2026</p>
   <p><strong>April 2026</strong> — Successfully passed my PhD field exam!</p>
   <p><strong>March 2026</strong> — Presented research on writing instructors’ decisions about generative AI at 
